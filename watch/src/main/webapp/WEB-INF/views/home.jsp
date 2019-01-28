@@ -1,17 +1,9 @@
-    <div class="container">
-
-      <div class="row">
-
-        <div class="col-lg-3">
-		  <h1> xyz</h1>	
-          <h1 class="my-4">Shop Name</h1>
-          <div class="list-group">
-            <a href="#" class="list-group-item">Category 1</a>
-            <a href="#" class="list-group-item">Category 2</a>
-            <a href="#" class="list-group-item">Category 3</a>
-          </div>
-
-        </div>
+<div class="container">
+	<div class="row">
+    <div class="col-lg-3">
+      <h1>Categories</h1>	
+	<%@include file="./shared/sidebar.jsp" %>
+</div>
         <!-- /.col-lg-3 -->
 
         <div class="col-lg-9">
@@ -27,7 +19,7 @@
                 <img class="d-block img-fluid" src="https://www.livestores1.com/image/PFTBB062/cache/data/Sony_Xperia_logo_110-900x350.jpg" alt="First slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="http://www.biggestshop.pk/image/cache/data/Mobiles/banner-samsung-900x350.jpg" alt="Second slide">
+                <img class="d-block img-fluid" src="http://buzzmountain.com/wp-content/uploads/2013/07/mobilemarketing-900x350.png" alt="Second slide">
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="https://www.tecnologiaetudo.com/wp-content/uploads/2017/02/Xiaomi-redmi-note-4-pro-2-900x350.jpg" alt="Third slide">
